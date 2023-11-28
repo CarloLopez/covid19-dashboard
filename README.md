@@ -18,3 +18,5 @@ pip install pandas numpy matplotlib ipywidgets uk_covid19
 
 ## Usage
 After installing the dependencies, launch Jupyter Notebook and open the project file. The interface includes dropdown menus and buttons to select data metrics and refresh the data. Graphs will update automatically based on your selections.
+
+![image](https://github.com/CarloLopez/covid19-dashboard/assets/86852232/363c788a-dca1-41c7-8702-9728b9d3767e)

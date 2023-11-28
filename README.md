@@ -14,6 +14,7 @@ This project is a simple Python-based interactive data visualization tool design
 To set up this project, you will need a Python environment with Jupyter Notebook. The project relies on several Python libraries, including `pandas`, `numpy`, `matplotlib`, `ipywidgets`, and `uk_covid19`. You can install these dependencies using pip:
 ```bash
 pip install pandas numpy matplotlib ipywidgets uk_covid19
+```
 
 ## Usage
 After installing the dependencies, launch Jupyter Notebook and open the project file. The interface includes dropdown menus and buttons to select data metrics and refresh the data. Graphs will update automatically based on your selections.
